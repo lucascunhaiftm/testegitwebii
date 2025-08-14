@@ -1,4 +1,4 @@
-Primeiro commit no arquivo
+Primeiro commit no arquivo. COrrigindo o commit anterior por bug
 
 alteração direto na main, para corrigir um bug. 
 
